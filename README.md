@@ -28,4 +28,4 @@ If you have any questions or suggestions about the code or manuscript, please do
 and Prof. William Noble(`william-noble@uw.edu`). 
 
 # Citation
-TBA
+Lu, Y. Y., Bilmes, J., Rodriguez-Mias, R. A., Villén, J., & Noble, W. S. (2021). DIAmeter: matching peptides to data-independent acquisition mass spectrometry data. Bioinformatics, 37(Supplement_1), i434-i442.
