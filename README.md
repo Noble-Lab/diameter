@@ -11,9 +11,11 @@ Details are listed below:
 4.  Use target-decoy competition at the peptide level to estimate a q-value (i.e., the minimal FDR threshold atwhich a given peptide is accepted) for each ranked peptide.
 <br>
 
+# Notice
+The Python version of DIAmeter is no longer supported. Please use the actively maintained version integrated into the Crux mass spectrometry analysis toolkit, available at https://crux.ms/.
+
 # Requirements
 Python2.7, 
-
 
 # How to run?
 
@@ -28,4 +30,4 @@ If you have any questions or suggestions about the code or manuscript, please do
 and Prof. William Noble(`william-noble@uw.edu`). 
 
 # Citation
-Lu, Y. Y., Bilmes, J., Rodriguez-Mias, R. A., VillÃ©n, J., & Noble, W. S. (2021). DIAmeter: matching peptides to data-independent acquisition mass spectrometry data. Bioinformatics, 37(Supplement_1), i434-i442.
+Lu, Y. Y., Bilmes, J., Rodriguez-Mias, R. A., Villén, J., & Noble, W. S. (2021). DIAmeter: matching peptides to data-independent acquisition mass spectrometry data. Bioinformatics, 37(Supplement_1), i434-i442.
